@@ -10,7 +10,7 @@ Please provide the YouTube link to your [Video Demo](https://www.youtube.com/wat
 
 Provide instructions on how to compile your program, especially when it is non-trivial.
 
-g++ firstpart.cpp -o main.cpp
+g++ main.cpp -o main.cpp
 
 ## User Manual
 
